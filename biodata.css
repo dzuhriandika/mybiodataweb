@@ -1,0 +1,15 @@
+body{
+	background-size: 100%;
+	background-image: url("background.png");	
+}
+h1{
+	text-align: right;
+}
+#search{
+	text-align: right;
+}
+img{
+	width : 250px;
+	height: 333px;
+	border-radius: 50%;
+}
